@@ -1,5 +1,9 @@
 # Mentoria CheatSheet
 
+## GIT
+
+* [Github: do clone ao pull request](https://blog.da2k.com.br/2015/02/04/git-e-github-do-clone-ao-pull-request/)
+
 ## HTML
 
 ### Acessibilidade
@@ -7,6 +11,8 @@
 ### SEO
 
 ## CSS
+
+### Responsividade
 
 ### Pré-processadores
 
@@ -16,9 +22,28 @@
 
 #### Stylus
 
-### Style Guide / Patterns
+### CSS Framework
 
-#### BEM - Block Element Modifier
+#### Bootstrap
+
+#### Materialize CSS
+
+#### Bulma
+### CSS Architecture
+
+#### BEM
+
+Metodologia utilizada para nomenclatura de classes no CSS.
+
+* [BEM Introduction](http://getbem.com/introduction/)
+
+#### OOCSS
+
+#### SMACSS
+
+#### SUITCSS
+
+#### Atomic
 
 ## Design/Layout
 
@@ -30,26 +55,103 @@
 
 ### Exercícios
 
+* [HackerRank](https://www.hackerrank.com)
+Contém desafios com várias linguagens (inclusive javascript) e muitas empresas usam para fazer seus testes admissionais.
+
+
 ## Javascript
 
-### Frameworks
+### JQuery
 
-#### JQuery
+### Plugins
 
-#### React
+## Temas relevantes
 
-#### Vue.js
+### API
 
-### Angular
+### Canvas
 
-## Ferramentas
+### SVG
+
+### Programação Funcional
+
+### Sourcemaps
+
+### TC39
+
+## Package Managers
+
+### NPM
+
+### Yarn
+
+## Ferramentas para Build
+
+### Task runners
+#### NPM Scripts
+
+#### Gulp
 
 ### Linter
 
-### Webpack
+#### ESLint
 
-### Gulp
+#### JSLint
 
+#### JSHint
+
+#### JSCS
+
+### Outras
+
+#### Webpack
+
+#### Rollup
+
+#### Parcel
+
+## Frameworks
+
+### React
+
+#### Redux
+
+#### Mobx
+
+### Vue.js
+
+#### Vuex
+
+### Angular
+
+#### Rx.js
+
+#### ngrx
+
+## Testes
+
+* [Mocha.js](https://mochajs.org/)
+Ferramenta de testes para javascript.
+
+* [Sinon.js](http://sinonjs.org/)
+Ferramenta de testes para javascript.
+
+* [Jest.js](https://jestjs.io/)
+Ferramenta do facebook para testes para javascript.
+
+* [Enzyme](https://github.com/airbnb/enzyme)
+Ferramenta para auxílio nos testes em React.
+
+* [Protractor]
+
+* [Karma]
+
+## Progressive Web Apps
+
+## Static Type Checkers
+
+### Typescript
+### Flow
 ## Cursos
 
 ## Desafios
