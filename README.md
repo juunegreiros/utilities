@@ -1,55 +1,55 @@
 # Mentoria CheatSheet
 
-##HTML
+## HTML
 
-###Acessibilidade
+### Acessibilidade
 
-###SEO
+### SEO
 
-##CSS
+## CSS
 
-###Pré-processadores
+### Pré-processadores
 
-####SASS/SCSS
+#### SASS/SCSS
 
-####LESS
+#### LESS
 
-####Stylus
+#### Stylus
 
-###Style Guide / Patterns
+### Style Guide / Patterns
 
-####BEM - Block Element Modifier
+#### BEM - Block Element Modifier
 
-##Design/Layout
+## Design/Layout
 
-###Inspirações
+### Inspirações
 
-###Ferramentas
+### Ferramentas
 
-##Lógica de Programação
+## Lógica de Programação
 
-###Exercícios
+### Exercícios
 
-##Javascript
+## Javascript
 
-###Frameworks
+### Frameworks
 
-####JQuery
+#### JQuery
 
-####React
+#### React
 
-####Vue.js
+#### Vue.js
 
-###Angular
+### Angular
 
-##Ferramentas
+## Ferramentas
 
-###Linter
+### Linter
 
-###Webpack
+### Webpack
 
-###Gulp
+### Gulp
 
-##Cursos
+## Cursos
 
-##Desafios
+## Desafios
