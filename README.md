@@ -56,6 +56,7 @@ Metodologia utilizada para nomenclatura de classes no CSS.
 ### Exercícios
 
 * [HackerRank](https://www.hackerrank.com)
+
 Contém desafios com várias linguagens (inclusive javascript) e muitas empresas usam para fazer seus testes admissionais.
 
 
@@ -131,15 +132,19 @@ Contém desafios com várias linguagens (inclusive javascript) e muitas empresas
 ## Testes
 
 * [Mocha.js](https://mochajs.org/)
+
 Ferramenta de testes para javascript.
 
 * [Sinon.js](http://sinonjs.org/)
+
 Ferramenta de testes para javascript.
 
 * [Jest.js](https://jestjs.io/)
+
 Ferramenta do facebook para testes para javascript.
 
 * [Enzyme](https://github.com/airbnb/enzyme)
+
 Ferramenta para auxílio nos testes em React.
 
 * [Protractor]
