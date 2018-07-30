@@ -4,6 +4,10 @@ Tendo como base o incrível [developer roadmap](https://github.com/kamranahmedse
 
 ## GIT
 
+* [Github Student Pack](https://education.github.com/pack/offers)
+
+  Tenha acesso a conta premium do github DE GRÁTIS (se for estudante).
+
 * [Github: do clone ao pull request](https://blog.da2k.com.br/2015/02/04/git-e-github-do-clone-ao-pull-request/)
 
 * [Sobre mensagens do commit](https://code.likeagirl.io/antes-e-depois-das-minhas-mensagens-de-commit-1ad8cc288d05)
@@ -45,34 +49,13 @@ Tendo como base o incrível [developer roadmap](https://github.com/kamranahmedse
 
 ### Pré-processadores
 
-#### SASS/SCSS
-
-#### LESS
-
-#### Stylus
-
 ### CSS Framework
 
-#### Bootstrap
-
-#### Materialize CSS
-
-#### Bulma
 ### CSS Architecture
-
-#### BEM
-
-Metodologia utilizada para nomenclatura de classes no CSS.
 
 * [BEM Introduction](http://getbem.com/introduction/)
 
-#### OOCSS
-
-#### SMACSS
-
-#### SUITCSS
-
-#### Atomic
+Metodologia utilizada para nomenclatura de classes no CSS.
 
 ## Design/Layout
 
@@ -94,6 +77,10 @@ Contém desafios com várias linguagens (inclusive javascript) e muitas empresas
 * [Eloquent Javascript](http://eloquentjavascript.net/)
   
   Livro importantíssimo (e já com es6!) e de fácil leitura para quem está começando a se aventurar com javascript.
+  
+* [Javascript Info](https://javascript.info/)
+
+  Tutorial, com exemplos, de conceitos importantes de javascript com es6.
 
 * [Jquery to vanillajs](http://codeblog.cz/vanilla/traversal.html#find-descendants-in-single-element)
   
@@ -115,6 +102,8 @@ Contém desafios com várias linguagens (inclusive javascript) e muitas empresas
 
 ### Programação Funcional
 
+* [High-order Functions - fun fun function](https://www.youtube.com/watch?v=BMUiFMZr7vk&list=PL0zVEGEvSaeEd9hlmCXrk5yUyqUag-n84)
+
 ### Sourcemaps
 
 ### TC39
@@ -122,10 +111,6 @@ Contém desafios com várias linguagens (inclusive javascript) e muitas empresas
 ## Package Managers
 
 * [ASDF](https://github.com/asdf-vm/asdf)
-
-### NPM
-
-### Yarn
 
 ## Ferramentas para Build
 
@@ -136,25 +121,19 @@ Contém desafios com várias linguagens (inclusive javascript) e muitas empresas
 
 ### Linter
 
-#### ESLint
-
-#### JSLint
-
-#### JSHint
-
-#### JSCS
-
-### Outras
+* [ESLint](https://eslint.org/)
 
 #### Webpack
-
-#### Rollup
-
-#### Parcel
 
 ## Frameworks
 
 ### React
+
+* [Reactjs.org](https://reactjs.org/)
+
+* [Create react app](https://github.com/facebook/create-react-app)
+  
+  Te ajuda a criar um app, tirando algumas preocupações (como instalação de babel e outras coisas) da sua mão. Bem útil para quem está começando também.
 
 * [React Icons](https://github.com/react-icons/react-icons)
 
@@ -214,6 +193,14 @@ Ferramenta para auxílio nos testes em React.
 * [Dilinger - Markdown online editor](https://dillinger.io/)
 
   Caso queira escrever algo com markdown (aqui no github, por exemplo) você pode formatar nesse link e colar aqui depois.
+
+## Código online
+
+* [Jsbin](https://jsbin.com/tuzefetutu/1/edit?js,console)
+
+* [Codepen](https://codepen.io/)
+
+* [Codesandbox](https://codesandbox.io/)
 
 ## Quer palestrar/ir em eventos?
 * [Mulheres palestrantes](http://insideoutproject.xyz/mulheres-palestrantes/)
