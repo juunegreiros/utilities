@@ -31,6 +31,8 @@ Tendo como base o incrível [developer roadmap](https://github.com/kamranahmedse
 * [Bada55 - cores maneiras](http://bada55.io/)
 
   Cores legais votadas pela comunidade.
+  
+* [Ui Gradients](https://uigradients.com/)
 
 ### Inspiração
 
@@ -41,6 +43,8 @@ Tendo como base o incrível [developer roadmap](https://github.com/kamranahmedse
 * [Awwwards](https://www.awwwards.com/)
 
 * [The FWA](https://thefwa.com/awards/)
+
+* [One page love](https://onepagelove.com)
 
 ## HTML
 
@@ -278,8 +282,28 @@ Ferramenta para auxílio nos testes em React.
 * [Free Courses](https://freecourses.github.io/category/javascript)
 
 * [URI](https://www.urionlinejudge.com.br/)
+
+* [Udemy](https://www.udemy.com/)
+
+  Sempre sai curso em promoção (recomendo esperar xD)
+
+
 ## Freelas e Jobs
 
 * [Behance](https://www.behance.net/joblist)
 
 * [Remote.com](https://remote.com/)
+
+* [Upwork](https://www.upwork.com/)
+
+* [Fiverr](https://www.fiverr.com/)
+
+* [Peopleperhour](https://www.peopleperhour.com/)
+
+* [We work remotely](https://weworkremotely.com/)
+
+* [Toptal](https://www.toptal.com/)
+
+* [Startup Lift](http://startuplift.com/opportunities-dashboard/)
+
+
