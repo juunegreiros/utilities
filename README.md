@@ -4,6 +4,10 @@
 
 * [Github: do clone ao pull request](https://blog.da2k.com.br/2015/02/04/git-e-github-do-clone-ao-pull-request/)
 
+## Terminal
+
+* [Configurando zsh no linux](https://www.howtoforge.com/tutorial/how-to-setup-zsh-and-oh-my-zsh-on-linux/)
+
 ## HTML
 
 ### Acessibilidade
