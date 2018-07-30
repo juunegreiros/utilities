@@ -8,6 +8,9 @@
 
 * [Configurando zsh no linux](https://www.howtoforge.com/tutorial/how-to-setup-zsh-and-oh-my-zsh-on-linux/)
 
+* [Oh my zsh](https://ohmyz.sh/)
+
+
 ## HTML
 
 ### Acessibilidade
