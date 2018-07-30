@@ -14,7 +14,7 @@ Tendo como base o incrível [developer roadmap](https://github.com/kamranahmedse
 
 * [Oh shit git!](http://ohshitgit.com/)
 
-  Caso algo não sai como o planejado, aqui tem um compilado de links úteis que podem te salvar. Tudo é reversível, nada está perdido!
+  Caso algo não saia como o planejado, aqui tem um compilado de links úteis que podem te salvar. Tudo é reversível, nada está perdido!
 
 ## Terminal
 
@@ -114,6 +114,10 @@ Contém desafios com várias linguagens (inclusive javascript) e muitas empresas
 
 ## Ferramentas para Build
 
+* [Babel](https://babeljs.io/)
+  
+  Javascript compiler.
+ 
 ### Task runners
 #### NPM Scripts
 
