@@ -1,6 +1,27 @@
-# Mentoria CheatSheet
+# Mentoria Front-End CheatSheet
 
 Tendo como base o incrível [developer roadmap](https://github.com/kamranahmedse/developer-roadmap) e do [frontend handbook](https://frontendmasters.com/books/front-end-handbook/2018/)
+
+## HTML
+
+* [HTML Cheat Sheet - digital](https://digital.com/tools/html-cheatsheet/)
+
+* [HTMLcheatsheet](https://htmlcheatsheet.com/)
+
+* [Markup Validator](http://validator.w3.org/)
+
+* [HTML Tags](https://html-css-js.com/html/tags)
+
+* [Character Codes](https://html-css-js.com/html/character-codes/)
+
+* [Bad HTML](https://badhtml.com/bad-html-tag-practices-wrong-code/)
+
+### Acessibilidade
+
+### SEO
+
+* [O que é SEO?](https://marketingdeconteudo.com/o-que-e-seo/)
+
 
 ## GIT
 
@@ -18,21 +39,57 @@ Tendo como base o incrível [developer roadmap](https://github.com/kamranahmedse
 
   Caso algo não saia como o planejado, aqui tem um compilado de links úteis que podem te salvar. Tudo é reversível, nada está perdido!
 
-## Terminal
+## Terminal (Linha de Comando)
+
+* [Iniciando na linha de comando](https://www.davidbaumgold.com/tutorials/command-line/)
 
 * [Configurando zsh no linux](https://www.howtoforge.com/tutorial/how-to-setup-zsh-and-oh-my-zsh-on-linux/)
 
 * [Oh my zsh](https://ohmyz.sh/)
 
+## HTTP
+
+* [HTTP Status](https://httpstatuses.com/)
+
+* [HTTP Status Dog](https://httpstatusdogs.com/)
+
+* [Axios](https://github.com/axios/axios#handling-errors)
+
 ## Design/Layout
 
 ### Cores
 
+* [Adobe Color](https://color.adobe.com/pt/)
+
+  Crie e salve a sua própria paleta de cores.
+
+* [Coolors](https://coolors.co/app)
+
+  Aperte espaço para gerar uma paleta nova de cores <3
+
 * [Bada55 - cores maneiras](http://bada55.io/)
 
   Cores legais votadas pela comunidade.
-  
+
 * [Ui Gradients](https://uigradients.com/)
+
+* [Movies in color](http://moviesincolor.com/)
+
+  Paleta de cores retiradas de cenas de filmes.
+
+* [Teoria das Cores](https://blog.hubspot.com/marketing/color-theory-design)
+
+### Tipografia
+
+* [Google Fonts](https://fonts.google.com/)
+
+* [Guia sobre tipografia](https://www.chiefofdesign.com.br/tipografia/)
+
+* [Webfont Generator](https://www.fontsquirrel.com/tools/webfont-generator)
+
+* [Font Pair](https://fontpair.co/)
+
+  Trás boas combinações de fontes do Google Fonts.
 
 ### Inspiração
 
@@ -46,14 +103,34 @@ Tendo como base o incrível [developer roadmap](https://github.com/kamranahmedse
 
 * [One page love](https://onepagelove.com)
 
-## HTML
+### Imagens
 
-* [Markup Validator](http://validator.w3.org/)
-### Acessibilidade
+* [Shuttershock](https://www.shutterstock.com/pt/)
 
-### SEO
+### Ícones e Vetores
+
+* [Font Awesome](https://fontawesome.com/)
+
+* [Flaticon](http://flaticon.com/)
+
+* [Vecteezy](https://www.vecteezy.com/)
+
+* [Icon Finder](https://www.iconfinder.com/)
+
+* [The noun project](https://thenounproject.com/)
+
+### Ferramentas para layoutar
+
+* [Figma](https://www.figma.com/)
+
 
 ## CSS
+
+* [Maujor](http://www.maujor.com/)
+
+  Site com muito conteúdo (não só de CSS!)
+
+* [CSS Tricks](https://css-tricks.com/)
 
 * [CSS Cheatsheet](https://www.toptal.com/css/css-cheat-sheet)
 
@@ -67,7 +144,11 @@ Tendo como base o incrível [developer roadmap](https://github.com/kamranahmedse
 
 * [Desenhando com CSS para iniciantes](https://medium.com/coding-artist/a-beginners-guide-to-pure-css-images-ef9a5d069dd2)
 
+* [Flexbox Cheat Sheet](http://jonibologna.com/content/images/flexboxsheet.pdf)
+
 ### Responsividade
+
+* [Google Mobile Friendly](https://search.google.com/test/mobile-friendly)
 
 ### Pré-processadores
 
@@ -75,13 +156,15 @@ Tendo como base o incrível [developer roadmap](https://github.com/kamranahmedse
 
 ### CSS Framework
 
+* [Bootstrap](https://getbootstrap.com/)
+
+* [Semantic UI](https://semantic-ui.com/)
+
 ### CSS Architecture
 
 * [BEM Introduction](http://getbem.com/introduction/)
 
 Metodologia utilizada para nomenclatura de classes no CSS.
-
-## Design/Layout
 
 ### Inspirações
 
@@ -99,20 +182,22 @@ Metodologia utilizada para nomenclatura de classes no CSS.
 ## Javascript
 
 * [Eloquent Javascript](http://eloquentjavascript.net/)
-  
+
   Livro importantíssimo (e já com es6!) e de fácil leitura para quem está começando a se aventurar com javascript.
-  
+
 * [Javascript es6+ Cheatsheet](https://devhints.io/es6)
-  
+
 * [Javascript Info](https://javascript.info/)
 
   Tutorial, com exemplos, de conceitos importantes de javascript com es6.
 
 * [Jquery to vanillajs](http://codeblog.cz/vanilla/traversal.html#find-descendants-in-single-element)
-  
+
    Para quem está migrando do jquery para o javascript, aqui fala como fazer com javascript o que se fazia com jquery.
 
 * [You might not need jquery](http://youmightnotneedjquery.com/)
+
+* [Char codes](https://www.cambiaresearch.com/articles/15/javascript-char-codes-key-codes)
 
 ### JQuery
 
@@ -125,7 +210,7 @@ Metodologia utilizada para nomenclatura de classes no CSS.
 * [Conectar com api apenas com javascript](https://www.taniarascia.com/how-to-connect-to-an-api-with-javascript/)
 
 * [Axios](https://github.com/axios/axios)
-  
+
   Ferramenta que facilita as requisições
 
 
@@ -154,11 +239,11 @@ Metodologia utilizada para nomenclatura de classes no CSS.
 ## Ferramentas para Build
 
 * [Babel](https://babeljs.io/)
-  
+
   Javascript compiler.
-  
+
 * [Instalando babel e outras coisas](https://medium.com/javascript-scene/how-to-use-es6-for-isomorphic-javascript-apps-2a9c3abe5ea2)
- 
+
 ### Task runners
 #### NPM Scripts
 
@@ -177,7 +262,7 @@ Metodologia utilizada para nomenclatura de classes no CSS.
 * [Reactjs.org](https://reactjs.org/)
 
 * [Create react app](https://github.com/facebook/create-react-app)
-  
+
   Te ajuda a criar um app, tirando algumas preocupações (como instalação de babel e outras coisas) da sua mão. Bem útil para quem está começando também.
 
 * [React Icons](https://github.com/react-icons/react-icons)
@@ -234,7 +319,7 @@ Ferramenta para auxílio nos testes em React.
 * [Can I Use?](https://caniuse.com/)
 
 * [What Web Can Do Today](https://whatwebcando.today/)
-  
+
   Lista de coisas que podemos fazer hoje através do browser.
 
 * [Dilinger - Markdown online editor](https://dillinger.io/)
@@ -246,6 +331,8 @@ Ferramenta para auxílio nos testes em React.
 ## Código online
 
 * [Jsbin](https://jsbin.com/tuzefetutu/1/edit?js,console)
+
+* [Jsfiddle](https://jsfiddle.net/)
 
 * [Codepen](https://codepen.io/)
 
@@ -267,10 +354,14 @@ Ferramenta para auxílio nos testes em React.
 
 ## Cursos, Desafios e Exercícios
 
+* [Free Code Camp](https://www.freecodecamp.org)
+
+* [CodeAcademy](https://www.codecademy.com/)
+
 * [The odin project](https://www.theodinproject.com/home)
 
   Guideline de estudos
-  
+
 * [Progate](https://progate.com/)
 
 * [HackerRank](https://www.hackerrank.com)
@@ -287,6 +378,19 @@ Ferramenta para auxílio nos testes em React.
 
   Sempre sai curso em promoção (recomendo esperar xD)
 
+* [Daily UI](http://www.dailyui.co/)
+
+* [Coder Byte](https://www.coderbyte.com/)
+
+* [SPOJ](https://www.spoj.com/)
+
+* [Code Wars](https://www.codewars.com/)
+
+* [Leet Code](https://leetcode.com/)
+
+* [Coding Game](https://www.codingame.com/)
+
+* [Egg Head](https://egghead.io/)
 
 ## Freelas e Jobs
 
@@ -306,4 +410,34 @@ Ferramenta para auxílio nos testes em React.
 
 * [Startup Lift](http://startuplift.com/opportunities-dashboard/)
 
+* [99designs](https://99designs.com.br/)
 
+* [Revelo](https://www.revelo.com.br/)
+
+## Newsletters
+
+* [Web Design Weekly](https://web-design-weekly.com/)
+
+## Dúvidas
+
+* [Stackoverflow](https://stackoverflow.com/)
+
+* [MDN - Mozilla Developer](https://developer.mozilla.org/pt-BR/)
+
+* [Build With](https://builtwith.com/)
+
+* [Webpage Test](https://www.webpagetest.org/)
+
+* [Pagespeed Insights](https://developers.google.com/speed/pagespeed/insights/)
+
+* [XML Sitemaps](https://www.xml-sitemaps.com/)
+
+## Telegram Bots
+
+* @UdemyGratis
+
+* @mulherespodcasters
+
+* @packtfreebot
+
+* @mundoJS
