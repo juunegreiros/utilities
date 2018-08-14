@@ -1,27 +1,108 @@
 # Mentoria Front-End CheatSheet
 
-Tendo como base o incrível [developer roadmap](https://github.com/kamranahmedse/developer-roadmap) e do [frontend handbook](https://frontendmasters.com/books/front-end-handbook/2018/)
+Tendo como base o incrível [developer roadmap](https://github.com/kamranahmedse/developer-roadmap) e o [frontend handbook](https://frontendmasters.com/books/front-end-handbook/2018/)
+
+## Índice
+
+1. [HTML](#html)
+  1.1 [Acessibilidade](#acessibilidade)
+  1.2 [SEO](#seo)
+2. [CSS](#css)
+  2.1 [Resposividade](#responsividade)
 
 ## HTML
 
-* [HTML Cheat Sheet - digital](https://digital.com/tools/html-cheatsheet/)
+* [HTML Tutorial - htmldog](http://www.htmldog.com/guides/html/) *inglês*
 
-* [HTMLcheatsheet](https://htmlcheatsheet.com/)
+  Um tutorial bem bacana de HTML ordenado em básico, intermediário e avançado.
 
-* [Markup Validator](http://validator.w3.org/)
+* [HTML Cheatsheet - digital](https://digital.com/tools/html-cheatsheet/) *inglês*
 
-* [HTML Tags](https://html-css-js.com/html/tags)
+  Folha de cola bem bonitinha e com exemplos bem legais.
 
-* [Character Codes](https://html-css-js.com/html/character-codes/)
+* [HTMLcheatsheet](https://htmlcheatsheet.com/) *inglês*
 
-* [Bad HTML](https://badhtml.com/bad-html-tag-practices-wrong-code/)
+  Folha de cola bem completa e reduzida.
+
+* [HTML Tags](https://html-css-js.com/html/tags) *inglês*
+
+  Lista de tags HTML.
+
+* [Markup Validator](http://validator.w3.org/) *inglês*
+
+  Revisa o seu HTML.
+
+* [Character Codes](https://html-css-js.com/html/character-codes/) *inglês*
+
+  Lista de como fazer caracteres especiais no HTML.
+
+* [Bad HTML](https://badhtml.com/bad-html-tag-practices-wrong-code/) *inglês*
+
+  Lista de práticas ruins. É um site bem intencionalmente bem feio, mas com muito conteúdo.
 
 ### Acessibilidade
 
 ### SEO
 
-* [O que é SEO?](https://marketingdeconteudo.com/o-que-e-seo/)
+* [O que é SEO?](https://marketingdeconteudo.com/o-que-e-seo/) *português*
 
+  Bastante conteúdo sobre SEO, dividido em tópicos.
+
+## CSS
+
+* [CSS Tutorial - htmldog](http://www.htmldog.com/guides/css/) *inglês*
+
+  Um tutorial bem bacana de HTML ordenado em básico, intermediário e avançado.
+
+* [Maujor](http://www.maujor.com/) *português*
+
+  Site com muuuuuuito conteúdo (não só de CSS!)
+
+* [CSS Tricks](https://css-tricks.com/) *inglês*
+
+  Site com muito conteúdo de CSS.
+
+* [CSS Cheatsheet - Toptal](https://www.toptal.com/css/css-cheat-sheet) *inglês*
+
+  Folha de cola reduzida da Toptal.
+
+* [CSS Generator](http://css3generator.com/) *inglês*
+
+  Simulador de algumas propriedades do css.
+
+* [You might not need javascript](http://youmightnotneedjs.com/) *inglês*
+
+  Coisas que você consegue fazer sem usar javascript, apenas com css.
+
+* [A beginners guide to pure css images](https://medium.com/coding-artist/a-beginners-guide-to-pure-css-images-ef9a5d069dd2) *inglês*
+
+  Texto bem bacana ensinando a desenhar com CSS.
+
+* [Flexbox Cheat Sheet](http://jonibologna.com/content/images/flexboxsheet.pdf) *inglês*
+
+  Folha de cola de flexbox, feito todo com desenhos bonitinhos.
+
+### Responsividade
+
+* [Google Mobile Friendly](https://search.google.com/test/mobile-friendly) *inglês*
+
+  Ferramenta do google que verifica o quão responsiva sua página está.
+
+### Pré-processadores
+
+* [CSS Modules](https://github.com/css-modules/css-modules)
+
+### CSS Framework
+
+* [Bootstrap](https://getbootstrap.com/)
+
+* [Semantic UI](https://semantic-ui.com/)
+
+### CSS Architecture
+
+* [BEM Introduction](http://getbem.com/introduction/)
+
+Metodologia utilizada para nomenclatura de classes no CSS.
 
 ## GIT
 
@@ -122,49 +203,6 @@ Tendo como base o incrível [developer roadmap](https://github.com/kamranahmedse
 ### Ferramentas para layoutar
 
 * [Figma](https://www.figma.com/)
-
-
-## CSS
-
-* [Maujor](http://www.maujor.com/)
-
-  Site com muito conteúdo (não só de CSS!)
-
-* [CSS Tricks](https://css-tricks.com/)
-
-* [CSS Cheatsheet](https://www.toptal.com/css/css-cheat-sheet)
-
-* [CSS Generator](http://css3generator.com/)
-
-  Aqui você consegue simular algumas propriedades do css.
-
-* [You might not need javascript](http://youmightnotneedjs.com/)
-
-  Coisas que você consegue fazer sem usar javascript, só com css.
-
-* [Desenhando com CSS para iniciantes](https://medium.com/coding-artist/a-beginners-guide-to-pure-css-images-ef9a5d069dd2)
-
-* [Flexbox Cheat Sheet](http://jonibologna.com/content/images/flexboxsheet.pdf)
-
-### Responsividade
-
-* [Google Mobile Friendly](https://search.google.com/test/mobile-friendly)
-
-### Pré-processadores
-
-* [CSS Modules](https://github.com/css-modules/css-modules)
-
-### CSS Framework
-
-* [Bootstrap](https://getbootstrap.com/)
-
-* [Semantic UI](https://semantic-ui.com/)
-
-### CSS Architecture
-
-* [BEM Introduction](http://getbem.com/introduction/)
-
-Metodologia utilizada para nomenclatura de classes no CSS.
 
 ### Inspirações
 
@@ -328,6 +366,12 @@ Ferramenta para auxílio nos testes em React.
 
 * [Stackshare](https://stackshare.io/trending/tools)
 
+## Pesquisa
+
+* [How to "hack" Google](./images/research/google-hack.jpg) - [no pinterest](https://br.pinterest.com/pin/446560119294469406/)
+
+* [How to be a Google Power User](./images/research/google-power-user.jpg) - [no pinterest](https://br.pinterest.com/pin/446560119293069784/)
+
 ## Código online
 
 * [Jsbin](https://jsbin.com/tuzefetutu/1/edit?js,console)
@@ -353,6 +397,8 @@ Ferramenta para auxílio nos testes em React.
   Lista de eventos que irão acontecer, em que são acessíveis e como apoiam a diversidade <3
 
 ## Cursos, Desafios e Exercícios
+
+* [Edx](https://www.edx.org)
 
 * [Free Code Camp](https://www.freecodecamp.org)
 
