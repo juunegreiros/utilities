@@ -4,11 +4,16 @@ Tendo como base o incrível [developer roadmap](https://github.com/kamranahmedse
 
 ## Índice
 
+
 1. [HTML](#html)
-  1.1 [Acessibilidade](#acessibilidade)
-  1.2 [SEO](#seo)
 2. [CSS](#css)
-  2.1 [Resposividade](#responsividade)
+3. [GIT](#git)
+4. [Terminal (Linha de Comando)](#terminal-linha-de-comando)
+5. [HTTP](#http)
+6. [Lógica de Programação](#lógica-de-programação)
+7. [Javascript](#javascript)
+8. [Editores de Texto](#editores-de-texto)
+9. [Design e layout](#designlayout)
 
 ## HTML
 
@@ -48,6 +53,8 @@ Tendo como base o incrível [developer roadmap](https://github.com/kamranahmedse
 
   Bastante conteúdo sobre SEO, dividido em tópicos.
 
+* [SEO Ranking factors](./images/html/seo-ranking-factors.jpg) - [no pinterest](https://br.pinterest.com/pin/446560119294536259/) *inglês*
+
 ## CSS
 
 * [CSS Tutorial - htmldog](http://www.htmldog.com/guides/css/) *inglês*
@@ -84,136 +91,89 @@ Tendo como base o incrível [developer roadmap](https://github.com/kamranahmedse
 
 ### Responsividade
 
+* [Introdução ao design responsivo](https://tableless.com.br/introducao-ao-responsive-web-design/) *português*
+
+* [Mobile First](https://uxdesign.blog.br/mobile-first-ou-boas-raz%C3%B5es-para-investir-em-mobile-94defd3100e8) *português*
+
+* [5 coisas que aprendi em um projeto mobile first](https://brasil.uxdesign.cc/5-coisas-que-aprendi-em-um-projeto-mobile-first-responsive-design-para-o-google-cb9c3223c51e) *português*
+
 * [Google Mobile Friendly](https://search.google.com/test/mobile-friendly) *inglês*
 
   Ferramenta do google que verifica o quão responsiva sua página está.
 
 ### Pré-processadores
 
-* [CSS Modules](https://github.com/css-modules/css-modules)
+* [An introduction to preprocessors](https://htmlmag.com/article/an-introduction-to-css-preprocessors-sass-less-stylus) *inglês*
+
+* [SASS](https://sass-lang.com/) *inglês*
+
+* [LESS](http://lesscss.org/) *inglês*
+
+* [Stylus](http://stylus-lang.com/) *inglês*
+
+* [CSS Modules](https://github.com/css-modules/css-modules) *inglês*
 
 ### CSS Framework
 
-* [Bootstrap](https://getbootstrap.com/)
+* [Bootstrap](https://getbootstrap.com/) *inglês*
 
-* [Semantic UI](https://semantic-ui.com/)
+* [Semantic UI](https://semantic-ui.com/) *inglês*
 
 ### CSS Architecture
 
-* [BEM Introduction](http://getbem.com/introduction/)
+* [OOCSS - Object Oriented CSS](http://oocss.org/) *inglês*
 
-Metodologia utilizada para nomenclatura de classes no CSS.
+* [OOCSS - Tableless](https://tableless.com.br/oocss-ou-css-do-jeito-certo/) *português*
+
+* [Afinal, como escrever css?](https://tableless.com.br/oocss-smacss-bem-dry-css-afinal-como-escrever-css/) *português*
+
+* [BEM Introduction](http://getbem.com/introduction/) *inglês*
+
+  Metodologia utilizada para nomenclatura de classes no CSS.
+
+* [Airbnb Styleguide](https://github.com/airbnb/css) *inglês*
 
 ## GIT
 
-* [Github Student Pack](https://education.github.com/pack/offers)
+* [Github Student Pack](https://education.github.com/pack/offers) *inglês*
 
   Tenha acesso a conta premium do github DE GRÁTIS (se for estudante).
 
-* [Git - the simple guide](http://rogerdudler.github.io/git-guide/)
+* [Plano para estudar git e github enquanto aprende programação](https://medium.com/trainingcenter/plano-para-estudar-git-e-github-enquanto-aprende-programa%C3%A7%C3%A3o-f5d5f986f459) *português*
 
-* [Github: do clone ao pull request](https://blog.da2k.com.br/2015/02/04/git-e-github-do-clone-ao-pull-request/)
+* [Git - the simple guide](http://rogerdudler.github.io/git-guide/) *português*
 
-* [Sobre mensagens do commit](https://code.likeagirl.io/antes-e-depois-das-minhas-mensagens-de-commit-1ad8cc288d05)
+* [Github: do clone ao pull request](https://blog.da2k.com.br/2015/02/04/git-e-github-do-clone-ao-pull-request/) *português*
 
-* [Oh shit git!](http://ohshitgit.com/)
+* [Oh shit git!](http://ohshitgit.com/) *inglês*
 
-  Caso algo não saia como o planejado, aqui tem um compilado de links úteis que podem te salvar. Tudo é reversível, nada está perdido!
+Caso algo não saia como o planejado, aqui tem um compilado de links úteis que podem te salvar. Tudo é reversível, nada está perdido!
+
+* [Antes e depois das minhas mensagens de commit](https://code.likeagirl.io/antes-e-depois-das-minhas-mensagens-de-commit-1ad8cc288d05) *português*
+
+* [Github](http://github.com) *inglês*
+
+* [Gitlabl](https://gitlab.com/) *inglês*
+
+* [Bitbucket](https://bitbucket.org/) *inglês*
 
 ## Terminal (Linha de Comando)
 
-* [Iniciando na linha de comando](https://www.davidbaumgold.com/tutorials/command-line/)
+* [Iniciando na linha de comando](https://tutorial.djangogirls.org/pt/intro_to_command_line/) *português*
 
-* [Configurando zsh no linux](https://www.howtoforge.com/tutorial/how-to-setup-zsh-and-oh-my-zsh-on-linux/)
+* [Command line](https://www.davidbaumgold.com/tutorials/command-line/) *inglês*
 
-* [Oh my zsh](https://ohmyz.sh/)
+* [Configurando zsh no linux](https://www.howtoforge.com/tutorial/how-to-setup-zsh-and-oh-my-zsh-on-linux/) *inglês*
+
+* [Oh my zsh](https://ohmyz.sh/) *inglês*
 
 ## HTTP
 
-* [HTTP Status](https://httpstatuses.com/)
+* [HTTP Status](https://httpstatuses.com/) *inglês*
 
-* [HTTP Status Dog](https://httpstatusdogs.com/)
+* [HTTP Status Dog](https://httpstatusdogs.com/) *inglês*
 
-* [Axios](https://github.com/axios/axios#handling-errors)
-
-## Design/Layout
-
-### Cores
-
-* [Adobe Color](https://color.adobe.com/pt/)
-
-  Crie e salve a sua própria paleta de cores.
-
-* [Coolors](https://coolors.co/app)
-
-  Aperte espaço para gerar uma paleta nova de cores <3
-
-* [Bada55 - cores maneiras](http://bada55.io/)
-
-  Cores legais votadas pela comunidade.
-
-* [Ui Gradients](https://uigradients.com/)
-
-* [Movies in color](http://moviesincolor.com/)
-
-  Paleta de cores retiradas de cenas de filmes.
-
-* [Teoria das Cores](https://blog.hubspot.com/marketing/color-theory-design)
-
-### Tipografia
-
-* [Google Fonts](https://fonts.google.com/)
-
-* [Guia sobre tipografia](https://www.chiefofdesign.com.br/tipografia/)
-
-* [Webfont Generator](https://www.fontsquirrel.com/tools/webfont-generator)
-
-* [Font Pair](https://fontpair.co/)
-
-  Trás boas combinações de fontes do Google Fonts.
-
-### Inspiração
-
-* [CSS Winner](http://www.csswinner.com/)
-
-* [CSS Design Awards](https://www.cssdesignawards.com/)
-
-* [Awwwards](https://www.awwwards.com/)
-
-* [The FWA](https://thefwa.com/awards/)
-
-* [One page love](https://onepagelove.com)
-
-### Imagens
-
-* [Shuttershock](https://www.shutterstock.com/pt/)
-
-### Ícones e Vetores
-
-* [Font Awesome](https://fontawesome.com/)
-
-* [Flaticon](http://flaticon.com/)
-
-* [Vecteezy](https://www.vecteezy.com/)
-
-* [Icon Finder](https://www.iconfinder.com/)
-
-* [The noun project](https://thenounproject.com/)
-
-### Ferramentas para layoutar
-
-* [Figma](https://www.figma.com/)
-
-### Inspirações
-
-### Ferramentas
-
-#### Editores de Texto
-
-* [Atom](https://atom.io/)
-* [Sublime](https://www.sublimetext.com/3)
-* [VsCode](https://code.visualstudio.com)
-* [Vim](https://www.vim.org/)
+* [Axios](https://github.com/axios/axios) *inglês*
 
 ## Lógica de Programação
 
@@ -352,6 +312,133 @@ Ferramenta para auxílio nos testes em React.
 ### Typescript
 ### Flow
 
+## Editores de Texto
+
+* [Atom](https://atom.io/)
+* [Sublime](https://www.sublimetext.com/3)
+* [VsCode](https://code.visualstudio.com)
+* [Vim](https://www.vim.org/)
+
+## Design/Layout
+
+* [Building blocks of visual hierarchy](./images/design/visual-hierarchy-blocks.jpg) - [no pinterest](https://br.pinterest.com/pin/446560119292571062/) *inglês*
+
+* [Diagramação](./images/design/diagramacao.jpg) - [no pinterest](https://br.pinterest.com/pin/446560119293351009/)
+
+### Cores
+
+* [Colorzilla](http://www.colorzilla.com/) *inglês*
+
+  Plugin que mostra cores usadas na página.
+
+* [Adobe Color](https://color.adobe.com/pt/) *português*
+
+  Crie e salve a sua própria paleta de cores.
+
+* [Coolors](https://coolors.co/app) *inglês*
+
+  Aperte espaço para gerar uma paleta nova de cores <3
+
+* [Color hunt](https://colorhunt.co/) *inglês*
+
+* [Bada55 - cores maneiras](http://bada55.io/) *inglês*
+
+  Cores legais votadas pela comunidade.
+
+* [Ui Gradients](https://uigradients.com/) *inglês*
+
+* [Movies in color](http://moviesincolor.com/) *inglês*
+
+  Paleta de cores retiradas de cenas de filmes.
+
+* [Teoria das Cores](https://www.chiefofdesign.com.br/teoria-das-cores/) *português*
+
+* [Color theory design](https://blog.hubspot.com/marketing/color-theory-design) *inglês*
+
+* [Como escolher a cor ideal para o seu negócio?](./images/design/escolhendo-a-cor-ideal.jpg) - [no pinterest](https://br.pinterest.com/pin/446560119294536272/) *português*
+
+### Tipografia
+
+* [Tipografia básica](./images/design/tipografia-basica.jpg) - [no pinterest](https://br.pinterest.com/pin/446560119292528268/) *português*
+
+* [Guia sobre tipografia](https://www.chiefofdesign.com.br/tipografia/) *português*
+
+* [Font Moods](./images/design/font-moods.jpg) - [no pinterest](https://br.pinterest.com/pin/446560119294490790/) *inglês*
+
+* [Font Psychology](./images/design/font-psychology.jpg) - [no pinterest](https://br.pinterest.com/pin/446560119294490763/) *inglês*
+
+* [Google Fonts](https://fonts.google.com/) *inglês*
+
+* [1001 fonts](https://www.1001fonts.com/) *inglês*
+
+* [Webfont Generator](https://www.fontsquirrel.com/tools/webfont-generator) *inglês*
+
+* [Font Pair](https://fontpair.co/) *inglês*
+
+  Trás boas combinações de fontes do Google Fonts.
+
+* [Fontface ninja](https://fontface.ninja/) *inglês*
+
+  Plugin que fala quais fontes estão sendo utilizadas na página.
+
+* [Fontstruct](https://fontstruct.com/) *inglês*
+
+  Crie, compartilhe e faça o download de fontes.
+
+* [Fontflame](http://app.fontflame.com/) *inglês*
+
+  Tinder para fontes
+
+### Inspiração
+
+* [Pinterest](https://br.pinterest.com/) *português*
+
+* [Dribbble](https://dribbble.com) *inglês*
+
+* [CSS Winner](http://www.csswinner.com/) *inglês*
+
+* [CSS Design Awards](https://www.cssdesignawards.com/) *inglês*
+
+* [Awwwards](https://www.awwwards.com/) *inglês*
+
+* [The FWA](https://thefwa.com/awards/) *inglês*
+
+* [One page love](https://onepagelove.com) *inglês*
+
+* [Behance](https://www.behance.net/) *inglês*
+
+* [Site inspire](https://www.siteinspire.com/) *inglês*
+
+* [Uplabs](https://www.uplabs.com/) *inglês*
+
+* [Mobile patterns](http://www.mobile-patterns.com/) *inglês*
+
+### Imagens
+
+* [Pixabay](https://pixabay.com/pt/) *português*
+
+* [Unsplash](https://unsplash.com/) *inglês*
+
+* [Pexels](https://www.pexels.com/) *inglês*
+
+### Ícones e Vetores
+
+* [Font Awesome](https://fontawesome.com/)
+
+* [Flaticon](http://flaticon.com/)
+
+* [Vecteezy](https://www.vecteezy.com/)
+
+* [Icon Finder](https://www.iconfinder.com/)
+
+* [The noun project](https://thenounproject.com/)
+
+### Ferramentas para layoutar
+
+* [Figma](https://www.figma.com/)
+
+* [Weld](https://www.weld.io/)
+
 ## Outros
 
 * [Can I Use?](https://caniuse.com/)
@@ -459,6 +546,10 @@ Ferramenta para auxílio nos testes em React.
 * [99designs](https://99designs.com.br/)
 
 * [Revelo](https://www.revelo.com.br/)
+
+* [51 freelance websites](./images/jobs/51-freelance-websites.jpg) - [no pinterest](https://br.pinterest.com/pin/AUvOmqam7UQ9kcd3R2pbKCYdHSrBOlFjGZdwmkR6V2HPYS_OiSIkzzo/) *inglês*
+
+* [200 ways to make money online](./images/jobs/200-ways-to-make-money-online.jpg) - [no pinterest](https://br.pinterest.com/pin/446560119292717266/)
 
 ## Newsletters
 
