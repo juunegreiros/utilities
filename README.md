@@ -1,4 +1,4 @@
-# Mentoria Front-End CheatSheet
+# Utilidades
 
 Tendo como base o incrível [developer roadmap](https://github.com/kamranahmedse/developer-roadmap) e o [frontend handbook](https://frontendmasters.com/books/front-end-handbook/2018/)
 
