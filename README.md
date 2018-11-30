@@ -197,6 +197,8 @@ Caso algo não saia como o planejado, aqui tem um compilado de links úteis que 
 
 * [Char codes](https://www.cambiaresearch.com/articles/15/javascript-char-codes-key-codes)
 
+* [Smells](https://sourcemaking.com/refactoring/smells)
+
 ### JQuery
 
 ### Plugins
