@@ -11,9 +11,15 @@ Tendo como base o incrível [developer roadmap](https://github.com/kamranahmedse
 4. [Terminal (Linha de Comando)](#terminal-linha-de-comando)
 5. [HTTP](#http)
 6. [Lógica de Programação](#lógica-de-programação)
-7. [Javascript](#javascript)
+7. [Javascript e frameworks](#javascript)
+8. [Testes](#testes)
 8. [Editores de Texto](#editores-de-texto)
 9. [Design e layout](#designlayout)
+10. [Eventos e palestras](eventos-e-palestras)
+11. [Cursos, desafios e exercícios](#cursos-desafios-e-exercicios)
+12. [Freelas e jobs](freelas-e-jobs)
+10. [APIs e ideias](#apis-e-ideias)
+11. [Outros](#outros)
 
 ## HTML
 
@@ -173,7 +179,13 @@ Caso algo não saia como o planejado, aqui tem um compilado de links úteis que 
 
 * [HTTP Status Dog](https://httpstatusdogs.com/) *inglês*
 
+### API
+
+* [Conectar com api apenas com javascript](https://www.taniarascia.com/how-to-connect-to-an-api-with-javascript/)
+
 * [Axios](https://github.com/axios/axios) *inglês*
+
+  Ferramenta que facilita as requisições
 
 ## Lógica de Programação
 
@@ -199,38 +211,39 @@ Caso algo não saia como o planejado, aqui tem um compilado de links úteis que 
 
 * [Smells](https://sourcemaking.com/refactoring/smells)
 
-### JQuery
+### Frameworks
+
+#### React
+
+* [Reactjs.org](https://reactjs.org/)
+
+* [Create react app](https://github.com/facebook/create-react-app)
+
+  Te ajuda a criar um app, tirando algumas preocupações (como instalação de babel e outras coisas) da sua mão. Bem útil para quem está começando também.
+
+* [React Icons](https://github.com/react-icons/react-icons)
+
+* [React Grid](https://github.com/roylee0704/react-flexbox-grid)
+
+##### Redux
+
+##### Mobx
+
+#### Vue.js
+
+* [21 ui libraries para Vue.js](https://hackernoon.com/21-top-vue-js-ui-libraries-for-your-app-4556e5a9060e?gi=e895e24f0106)
+
+##### Vuex
+
+#### Angular
+
+##### Rx.js
+
+##### ngrx
+
+#### JQuery
 
 ### Plugins
-
-## Temas relevantes
-
-### API
-
-* [Conectar com api apenas com javascript](https://www.taniarascia.com/how-to-connect-to-an-api-with-javascript/)
-
-* [Axios](https://github.com/axios/axios)
-
-  Ferramenta que facilita as requisições
-
-
-### Canvas
-
-### SVG
-
-* [SVGOMG - reduz tamanho do seu svg](https://jakearchibald.github.io/svgomg/)
-
-* [SVG Circus](http://svgcircus.com/)
-
-### Programação Funcional
-
-* [High-order Functions - fun fun function](https://www.youtube.com/watch?v=BMUiFMZr7vk&list=PL0zVEGEvSaeEd9hlmCXrk5yUyqUag-n84)
-
-* [Map, filter e reduce](http://desenvolvimentoparaweb.com/javascript/map-filter-reduce-javascript/)
-
-### Sourcemaps
-
-### TC39
 
 ## Package Managers
 
@@ -254,36 +267,6 @@ Caso algo não saia como o planejado, aqui tem um compilado de links úteis que 
 * [ESLint](https://eslint.org/)
 
 #### Webpack
-
-## Frameworks
-
-### React
-
-* [Reactjs.org](https://reactjs.org/)
-
-* [Create react app](https://github.com/facebook/create-react-app)
-
-  Te ajuda a criar um app, tirando algumas preocupações (como instalação de babel e outras coisas) da sua mão. Bem útil para quem está começando também.
-
-* [React Icons](https://github.com/react-icons/react-icons)
-
-* [React Grid](https://github.com/roylee0704/react-flexbox-grid)
-
-#### Redux
-
-#### Mobx
-
-### Vue.js
-
-* [21 ui libraries para Vue.js](https://hackernoon.com/21-top-vue-js-ui-libraries-for-your-app-4556e5a9060e?gi=e895e24f0106)
-
-#### Vuex
-
-### Angular
-
-#### Rx.js
-
-#### ngrx
 
 ## Testes
 
@@ -441,37 +424,7 @@ Ferramenta para auxílio nos testes em React.
 
 * [Weld](https://www.weld.io/)
 
-## Outros
-
-* [Can I Use?](https://caniuse.com/)
-
-* [What Web Can Do Today](https://whatwebcando.today/)
-
-  Lista de coisas que podemos fazer hoje através do browser.
-
-* [Dilinger - Markdown online editor](https://dillinger.io/)
-
-  Caso queira escrever algo com markdown (aqui no github, por exemplo) você pode formatar nesse link e colar aqui depois.
-
-* [Stackshare](https://stackshare.io/trending/tools)
-
-## Pesquisa
-
-* [How to "hack" Google](./images/research/google-hack.jpg) - [no pinterest](https://br.pinterest.com/pin/446560119294469406/)
-
-* [How to be a Google Power User](./images/research/google-power-user.jpg) - [no pinterest](https://br.pinterest.com/pin/446560119293069784/)
-
-## Código online
-
-* [Jsbin](https://jsbin.com/tuzefetutu/1/edit?js,console)
-
-* [Jsfiddle](https://jsfiddle.net/)
-
-* [Codepen](https://codepen.io/)
-
-* [Codesandbox](https://codesandbox.io/)
-
-## Quer palestrar/ir em eventos?
+## Eventos e palestras
 
 * [Mulheres palestrantes](http://insideoutproject.xyz/mulheres-palestrantes/)
 
@@ -580,3 +533,51 @@ Ferramenta para auxílio nos testes em React.
 * @packtfreebot
 
 * @mundoJS
+
+## Outros
+
+* [Can I Use?](https://caniuse.com/)
+
+* [What Web Can Do Today](https://whatwebcando.today/)
+
+  Lista de coisas que podemos fazer hoje através do browser.
+
+* [Dilinger - Markdown online editor](https://dillinger.io/)
+
+  Caso queira escrever algo com markdown (aqui no github, por exemplo) você pode formatar nesse link e colar aqui depois.
+
+* [Stackshare](https://stackshare.io/trending/tools)
+
+## Pesquisa
+
+* [How to "hack" Google](./images/research/google-hack.jpg) - [no pinterest](https://br.pinterest.com/pin/446560119294469406/)
+
+* [How to be a Google Power User](./images/research/google-power-user.jpg) - [no pinterest](https://br.pinterest.com/pin/446560119293069784/)
+
+## Código online
+
+* [Jsbin](https://jsbin.com/tuzefetutu/1/edit?js,console)
+
+* [Jsfiddle](https://jsfiddle.net/)
+
+* [Codepen](https://codepen.io/)
+
+* [Codesandbox](https://codesandbox.io/)
+
+### Canvas
+
+### SVG
+
+* [SVGOMG - reduz tamanho do seu svg](https://jakearchibald.github.io/svgomg/)
+
+* [SVG Circus](http://svgcircus.com/)
+
+### Programação Funcional
+
+* [High-order Functions - fun fun function](https://www.youtube.com/watch?v=BMUiFMZr7vk&list=PL0zVEGEvSaeEd9hlmCXrk5yUyqUag-n84)
+
+* [Map, filter e reduce](http://desenvolvimentoparaweb.com/javascript/map-filter-reduce-javascript/)
+
+### Sourcemaps
+
+### TC39
