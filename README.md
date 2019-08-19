@@ -13,13 +13,18 @@ Tendo como base o incrível [developer roadmap](https://github.com/kamranahmedse
 6. [Lógica de Programação](#lógica-de-programação)
 7. [Javascript e frameworks](#javascript)
 8. [Testes](#testes)
-8. [Editores de Texto](#editores-de-texto)
-9. [Design e layout](#designlayout)
-10. [Eventos e palestras](eventos-e-palestras)
-11. [Cursos, desafios e exercícios](#cursos-desafios-e-exercicios)
-12. [Freelas e jobs](freelas-e-jobs)
-10. [APIs e ideias](#apis-e-ideias)
-11. [Outros](#outros)
+9. [Editores de Texto](#editores-de-texto)
+10. [Design e layout](#designlayout)
+11. [Eventos e palestras](#eventos-e-palestras)
+12. [Cursos, desafios e exercícios](#cursos-desafios-e-exercicios)
+13. [Freelas e jobs](#freelas-e-jobs)
+14. [APIs e ideias](#apis-e-ideias)
+15. [Outros](#outros)
+16. [Pesquisa](#pesquisa)
+17. [Código online](#codigo-online)
+18. [Canvas](#canvas)
+19. [Programação Funcional](#Programação-Funcional)
+
 
 ## HTML
 
