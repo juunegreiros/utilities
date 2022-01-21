@@ -99,6 +99,10 @@ Tendo como base o incrível [developer roadmap](https://github.com/kamranahmedse
 * [Flexbox Cheat Sheet](http://jonibologna.com/content/images/flexboxsheet.pdf) *inglês*
 
   Folha de cola de flexbox, feito todo com desenhos bonitinhos.
+  
+* [Flexbox Froggy](https://flexboxfroggy.com/)
+
+* [CSS Grid Garden](https://cssgridgarden.com/)
 
 ### Responsividade
 
